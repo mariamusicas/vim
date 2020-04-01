@@ -1,3 +1,5 @@
+## Teclado
+
 | Acordes          | Código | Modo geral | Modo inserir |
 |------------------|--------|------------|--------------|
 | Escala de Lá     |        | aa         |              |
