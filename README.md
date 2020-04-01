@@ -2,7 +2,7 @@
 
 ### MacOS
 
-- Descargar los archivos de *Maria Músicas,* versión **utf8**
+- Descargar los archivos de *[Maria Músicas](https://github.com/mariamusicas/vim)*
   - Opción *Clone or download > Download ZIP*
 - Instalar la aplicación ***MacVim***
   - Descargar desde *[MacUpdate](https://www.macupdate.com/app/mac/25988/macvim)* o *[Github](https://github.com/macvim-dev/macvim/releases)*
@@ -12,7 +12,7 @@
   - Localizar el archivo *Contents > Resources > vim > vimrc*
     - Reemplazarlo por el archivo con idéntico nombre descargado desde Maria Músicas
   - Localizar la carpeta *Contents > Resources > vim > runtime*
-    - Colocar ahí los archivos con el nombre *chordpromap*.vim*
+    - Colocar ahí los archivos de la carpeta **utf8** con el nombre *chordpromap*.vim*
 
 
 
