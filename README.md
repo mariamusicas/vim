@@ -6,13 +6,13 @@
   - Opción *Clone or download > Download ZIP*
 - Instalar la aplicación ***MacVim***
   - Descargar desde *[MacUpdate](https://www.macupdate.com/app/mac/25988/macvim)* o *[Github](https://github.com/macvim-dev/macvim/releases)*
-  - Instalar en la carpeta Aplicaciones
+  - Instalar en la carpeta *Aplicaciones*
 - Localizar la aplicación 
   - Aplicar la opción *Show Package Contents*
   - Localizar el archivo *Contents > Resources > vim > vimrc*
     - Reemplazarlo por el archivo con idéntico nombre descargado desde Maria Músicas
   - Localizar la carpeta *Contents > Resources > vim > runtime*
-    - Colocar ahí los archivos de la carpeta **utf8** con el nombre *chordpromap*.vim*
+    - Colocar ahí los archivos de la carpeta ***utf8*** con el nombre *chordpromap*.vim*
 
 
 
