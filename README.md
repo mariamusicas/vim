@@ -53,5 +53,5 @@
 | Bemol             | b      | 2            | b             |
 | Título            | {t: }  | t            | Ctrl-T        |
 | Subtítulo         | {st: } | s            | Ctrl-S        |
-| Início del refrán | {soc}  | r            | Ctrl-R        |
-| Fín del refrán    | {eoc}  | v            | (Ctrl-V)      |
+| Início del refrán | {soc}  | rr           | Ctrl-R        |
+| Fín del refrán    | {eoc}  | vv           | (Ctrl-V)      |
