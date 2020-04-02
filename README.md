@@ -16,7 +16,19 @@
 
 
 
-## Teclado
+## Teclado Vim
+
+### Acciones
+
+| Acción    | Modo general (cursor rectangular) | Modo insertar (cursor línea vertical) |
+|-----------------------------------------|----------------------|----------------------|
+| Entrar en el modo insertar              | i                    |                      |
+| Regresar al modo general                |                      | ESC                  |
+| Borrar línea (de código u otra)         | ⌫ Apagar             |                      |
+| Insertar línea                          | Shift-Enter          |                      |
+| Salvar archivo                          | F10                  |                      |
+| Borrar el caracter bajo el cursor       | x                    |                      |
+| Deshacer una acción                     | u                    |                      |
 
 ### Acordes
 
@@ -43,15 +55,3 @@
 | Subtítulo         | {st: } | s            | Ctrl-S        |
 | Início del refrán | {soc}  | r            | Ctrl-R        |
 | Fín del refrán    | {eoc}  | v            | (Ctrl-V)      |
-
-### Vim
-
-| Acción    | Modo general (cursor rectangular) | Modo insertar (cursor línea vertical) |
-|-----------------------------------------|----------------------|----------------------|
-| Entrar en el modo insertar              | i                    |                      |
-| Regresar al modo general                |                      | ESC                  |
-| Borrar línea (de código u otra)         | ⌫ Apagar             |                      |
-| Insertar línea                          | Shift-Enter          |                      |
-| Salvar archivo                          | F10                  |                      |
-| Borrar el caracter bajo el cursor       | x                    |                      |
-| Deshacer una acción                     | u                    |                      |
