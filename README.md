@@ -18,6 +18,8 @@
 
 ## Teclado
 
+### Acordes
+
 | Acordes           | Código | Modo general | Modo insertar |
 | ----------------- | ------ | ------------ | ------------- |
 | Escala de Lá      |        | aa           |               |
@@ -41,3 +43,17 @@
 | Subtítulo         | {st: } | s            | Ctrl-S        |
 | Início del refrán | {soc}  | r            | Ctrl-R        |
 | Fín del refrán    | {eoc}  | v            | (Ctrl-V)      |
+
+### Vim
+
+| Acción            | Modo general (cursor rectangular) | Modo insertar (cursor línea vertical) |
+|-----------------------------------------|----------------------|----------------------|
+| Entrar no modo inserir                  | i                    |                      |
+| Regressar ao modo geral                 |                      | ESC                  |
+| Inserir linha para introduzir um código | Espaço               |                      |
+| Inserir um código de secção ou índice   |                      | (Abreviatura) Espaço |
+| Apagar linha (de código ou outra)       | ⌫ Apagar            |                      |
+| Inserir linha                           | Shift-Enter          |                      |
+| Gravar                                  | F10                  |                      |
+| Apagar um caracter                      | x                    |                      |
+| Desfazer uma acção                      | u                    |                      |
