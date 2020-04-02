@@ -46,14 +46,12 @@
 
 ### Vim
 
-| Acción            | Modo general (cursor rectangular) | Modo insertar (cursor línea vertical) |
+| Acción    | Modo general (cursor rectangular) | Modo insertar (cursor línea vertical) |
 |-----------------------------------------|----------------------|----------------------|
-| Entrar no modo inserir                  | i                    |                      |
-| Regressar ao modo geral                 |                      | ESC                  |
-| Inserir linha para introduzir um código | Espaço               |                      |
-| Inserir um código de secção ou índice   |                      | (Abreviatura) Espaço |
-| Apagar linha (de código ou outra)       | ⌫ Apagar            |                      |
-| Inserir linha                           | Shift-Enter          |                      |
-| Gravar                                  | F10                  |                      |
-| Apagar um caracter                      | x                    |                      |
-| Desfazer uma acção                      | u                    |                      |
+| Entrar en el modo insertar              | i                    |                      |
+| Regresar al modo general                |                      | ESC                  |
+| Borrar línea (de código u otra)         | ⌫ Apagar             |                      |
+| Insertar línea                          | Shift-Enter          |                      |
+| Salvar archivo                          | F10                  |                      |
+| Borrar el caracter bajo el cursor       | x                    |                      |
+| Deshacer una acción                     | u                    |                      |
