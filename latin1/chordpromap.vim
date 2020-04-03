@@ -20,11 +20,11 @@ map tt i<Home>{t:<End>}<Esc>
 map ss i<Home>{st:<End>}<Esc>
 map rr i<Home>{soc}<CR><Esc>
 map vv i<End><CR>{eoc}<Esc>
-map aaa :source $VIMRUNTIME/chordpromap_la.vim<CR>:echo "Escala de LÃ¡"<CR>
-map ccc :source $VIMRUNTIME/chordpromap_do.vim<CR>:echo "Escala de DÃ³"<CR>
-map ddd :source $VIMRUNTIME/chordpromap_re.vim<CR>:echo "Escala de RÃ©"<CR>
+map aaa :source $VIMRUNTIME/chordpromap_la.vim<CR>:echo "Escala de L�"<CR>
+map ccc :source $VIMRUNTIME/chordpromap_do.vim<CR>:echo "Escala de D�"<CR>
+map ddd :source $VIMRUNTIME/chordpromap_re.vim<CR>:echo "Escala de R�"<CR>
 map ggg :source $VIMRUNTIME/chordpromap_sol.vim<CR>:echo "Escala de Sol"<CR>
-map fff :source $VIMRUNTIME/chordpromap_fa.vim<CR>:echo "Escala de FÃ¡"<CR>
+map fff :source $VIMRUNTIME/chordpromap_fa.vim<CR>:echo "Escala de F�"<CR>
 map eee :source $VIMRUNTIME/chordpromap_mi.vim<CR>:echo "Escala de Mi"<CR>
 map 
  i<Home>
