@@ -10,7 +10,7 @@
 - Localizar la aplicación 
   - Aplicar la opción *Show Package Contents*
   - Localizar el archivo *Contents > Resources > vim > vimrc*
-    - Reemplazarlo por el archivo con idéntico nombre descargado desde Maria Músicas
+    - Reemplazarlo por el archivo con idéntico nombre descargado desde Maria Músicas (carpeta *\_MacOS*)
   - Localizar la carpeta *Contents > Resources > vim > runtime*
     - Colocar ahí los archivos de la carpeta ***utf8*** con el nombre *chordpromap\*.vim*
 
@@ -23,7 +23,7 @@
   - Ejecutar para instalar
 - Localizar la carpeta *Este equipo > Disco local (C:) > Archivos de programa (x86) > Vim*
   - Localizar el archivo *_vimrc*
-    - Reemplazarlo por el archivo con idéntico nombre descargado desde Maria Músicas
+    - Reemplazarlo por el archivo con idéntico nombre descargado desde Maria Músicas (carpeta *\_Windows*)
   - Localizar la carpeta *Este equipo > Disco local (C:) > Archivos de programa (x86) > Vim > vim82*
     - Colocar ahí los archivos de la carpeta ***latin1*** con el nombre *chordpromap\*.vim*
 
