@@ -29,6 +29,8 @@
 
 ## Teclado Vim
 
+[Video introductorio a Vim + Chordpro](https://youtu.be/b0c4IOwtpnc)
+
 ### Acciones
 
 | Acción    | Modo general (cursor rectangular) | Modo insertar (cursor línea vertical) |
