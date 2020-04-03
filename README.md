@@ -45,24 +45,24 @@
 
 | Acordes           | Código | Modo general | Modo insertar |
 | ----------------- | ------ | ------------ | ------------- |
-| Escala de Lá      |        | aa           |               |
-| Escala de Do      |        | cc           |               |
-| Escala de Ré      |        | dd           |               |
-| Escala de Sol     |        | gg           |               |
-| Escala de Fá      |        | ff           |               |
-| Escala de Mi      |        | ee           |               |
-| Lá                | [A]    | a            | Ctrl-A        |
-| Si                | [B]    | b            | Ctrl-B        |
-| Dó                | [C]    | c            | Ctrl-C        |
-| Ré                | [D]    | d            | Ctrl-D        |
-| Mi                | [E]    | e            | Ctrl-E        |
-| Fá                | [F]    | f            | Ctrl-F        |
-| Sol               | [G]    | g            | Ctrl-G        |
+| Escala de Lá      |        | aaa          |               |
+| Escala de Do      |        | ccc          |               |
+| Escala de Ré      |        | ddd          |               |
+| Escala de Sol     |        | ggg          |               |
+| Escala de Fá      |        | fff          |               |
+| Escala de Mi      |        | eee          |               |
+| Lá                | [A]    | aa           | Ctrl-A        |
+| Si                | [B]    | bb           | Ctrl-B        |
+| Dó                | [C]    | cc           | Ctrl-C        |
+| Ré                | [D]    | dd           | Ctrl-D        |
+| Mi                | [E]    | ee           | Ctrl-E        |
+| Fá                | [F]    | ff           | Ctrl-F        |
+| Sol               | [G]    | gg           | Ctrl-G        |
 | Séptima           | 7      | 7            | 7             |
 | menor             | m      | m            | m             |
 | Sostenido         | #      | 3            | #             |
 | Bemol             | b      | 2            | b             |
-| Título            | {t: }  | t            | Ctrl-T        |
-| Subtítulo         | {st: } | s            | Ctrl-S        |
+| Título            | {t: }  | tt           | Ctrl-T        |
+| Subtítulo         | {st: } | ss           | Ctrl-S        |
 | Início del refrán | {soc}  | rr           | Ctrl-R        |
 | Fín del refrán    | {eoc}  | vv           | (Ctrl-V)      |
