@@ -14,6 +14,7 @@ imap  <Home>{st:<End>}
 imap  <Home>{soc}<CR>
 imap  <End><CR>{eoc}
 map 7 i<Left>7<Right><Right>
+map 9 i<Left>9<Right><Right>
 map m i<Left>m<Right><Right>
 map 3 i<Left>#<Right><Right>
 map tt i<Home>{t:<End>}<Esc>
