@@ -59,7 +59,7 @@
 | Fá                | [F]    | ff           | Ctrl-F        |
 | Sol               | [G]    | gg           | Ctrl-G        |
 | Séptima           | 7      | 7            | 7             |
-| Nona              | 9      | 9            | 9             |
+| Novena            | 9      | 9            | 9             |
 | menor             | m      | m            | m             |
 | Sostenido         | #      | 3            | #             |
 | Bemol             | b      | 2            | b             |
