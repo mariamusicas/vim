@@ -3,7 +3,6 @@
 ### MacOS
 
 - Descargar los archivos de *[Maria Músicas](https://github.com/mariamusicas/vim/archive/v1.0.zip)*
-  - Opción *Clone or download > Download ZIP*
 - Instalar la aplicación ***MacVim***
   - Descargar desde *[MacUpdate](https://www.macupdate.com/app/mac/25988/macvim)* o *[Github](https://github.com/macvim-dev/macvim/releases)*
   - Instalar en la carpeta *Aplicaciones*
@@ -17,7 +16,6 @@
 ### Windows 
 
 - Descargar los archivos de *[Maria Músicas](https://github.com/mariamusicas/vim/archive/v1.0.zip)*
-  - Opción *Clone or download > Download ZIP*
 - Instalar la aplicación ***gVim***
   - Descargar desde *[vim.org](https://www.vim.org/download.php#pc)*
   - Ejecutar para instalar
